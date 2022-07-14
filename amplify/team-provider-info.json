@@ -1,0 +1,24 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gifthero-dev-220521-authRole",
+      "UnauthRoleArn": "arn:aws:iam::499063782105:role/amplify-gifthero-dev-220521-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::499063782105:role/amplify-gifthero-dev-220521-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-gifthero-dev-220521-deployment",
+      "UnauthRoleName": "amplify-gifthero-dev-220521-unauthRole",
+      "StackName": "amplify-gifthero-dev-220521",
+      "StackId": "arn:aws:cloudformation:us-west-1:499063782105:stack/amplify-gifthero-dev-220521/6c262ba0-0319-11ed-ad62-0649e8399199",
+      "AmplifyAppId": "d32vxz52k2r49i"
+    },
+    "categories": {
+      "function": {
+        "findEmail": {
+          "secretsPathAmplifyAppId": "d32vxz52k2r49i",
+          "deploymentBucketName": "amplify-gifthero-dev-220521-deployment",
+          "s3Key": "amplify-builds/findEmail-63656a4d6d432b313736-build.zip"
+        }
+      }
+    }
+  }
+}
